@@ -18,3 +18,5 @@ s = Student()
 s.solve()
 s.speak()
 s.swim()
+
+# shu holatga ham 5 ta misol

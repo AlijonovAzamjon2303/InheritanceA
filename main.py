@@ -19,5 +19,7 @@ s = Student("S", "S")
 p.say_hi()
 s.say_hi()
 
+# shu holatga 5 ta misol
+
 
 
